@@ -39,11 +39,7 @@
             <artifactId>langchain4j-easy-rag</artifactId>
             <version>1.5.0-beta11</version>
         </dependency>
-        <dependency>
-            <groupId>com.microsoft.onnxruntime</groupId>
-            <artifactId>onnxruntime</artifactId>
-            <version>1.18.0</version>
-        </dependency>
+
         <dependency>
             <groupId>org.primefaces</groupId>
             <artifactId>primefaces</artifactId>
